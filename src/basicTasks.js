@@ -3,7 +3,6 @@ const objWithNewFields = {
   name: "Felix",
   age: 7
 };
-
 // Task 1 - end
 
 // Task 2 - add new field sum, that should contain sum of fields a + b
